@@ -9,4 +9,5 @@ Criação de um sistema bancário utilizando Python
     - Deposito
     - Extrato
 
-  ![image](https://github.com/elimarmcd/sistema-bancariov2/assets/157633420/61708522-9f7e-441f-84d7-a6425aaf0235)
+  ![image](https://github.com/elimarmcd/sistema-bancariov2/assets/157633420/2b8251f6-b139-46f7-b2de-cf0e0c4a2023)
+
